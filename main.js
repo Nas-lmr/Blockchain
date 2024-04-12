@@ -26,15 +26,3 @@
 // console.log("La blockchain est-elle valide ?", wildCoin.isChainValid());
 
 /************************************************************************************ */
-
-/************************************MINAGE******************************* */
-
-// const BlockchainMine = require("./NAS/blockchain/BlockchainMine.js");
-// let sharkCoin = new BlockchainMine();
-// sharkCoin.addBlock("Je suis le deuxieme");
-// sharkCoin.addBlock("Moi le troisieme");
-// sharkCoin.addBlock("Et moi le quatrième");
-
-// console.log(JSON.stringify(sharkCoin, null, 4));
-
-/********************************************************************* */
